@@ -28,8 +28,8 @@ requirements and procedures.
 | ![Barrel][Barrel]           | barrel-terminated cables (2mm pin size) |     |              | Required
 | | | | | |
 | | **Hardware** | **Price** | **Purchase** | **Required?** |
-| ![Tripod][Tripod]                  | Amazon Basics camera tripod      | $17   | [Amazon][14]         | Required (or similar)
-| ![3/4" Dowel][Dowel]               | 3/4-inch dowel                   | $2    | Local hardware store | Optional (extended mast)
+|                                    | Amazon Basics camera tripod      | $17   | [Amazon][14]         | Required (or similar)
+|                                    | 3/4-inch dowel                   | $2    | Local hardware store | Optional (extended mast)
 | ![U-Bolt (image left)][Mount]      | U-bolt (3/4-inch inner diameter) | $2    | Local hardware store | Required for extended mast
 | ![Hose Clamp (image right)][Mount] | hose clamp                       | $0.50 | Local hardware store | Required for extended mast
 | ![Box][Box]                        | 9x6x3 waterproof storage box     | $19   | [Amazon][15]         | Required (will be deployed outdoors)
@@ -46,8 +46,6 @@ requirements and procedures.
 [Charger]: img/charger.jpg
 [Barrel]:  img/barrel.jpg
 
-[Tripod]:  img/tripod.jpg
-[Dowel]:   img/dowel.jpg
 [Mount]:   img/mounting_hardware.jpg
 [Box]:     img/box.jpg
 [Bungee]:  img/bungee.jpg
